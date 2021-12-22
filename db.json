@@ -1,0 +1,25 @@
+{
+  "driver": [
+    {
+      "id": 1,
+      "firstName": "Ejona",
+      "lastName": "Seitaj",
+      "birthday": "Dec 08 2021",
+      "driverLicense": "A"
+    },
+    {
+      "id": 2,
+      "firstName": "test",
+      "lastName": "test2",
+      "birthday": "20 Dec 2011",
+      "driverLicense": "A class"
+    },
+    {
+      "id": 3,
+      "firstName": "test2",
+      "lastName": "hi",
+      "birthday": "20 Dec 2001",
+      "driverLicense": "b class"
+    }
+  ]
+}
